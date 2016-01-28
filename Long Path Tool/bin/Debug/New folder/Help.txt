@@ -1,0 +1,18 @@
+*** Install ***
+1. move file "Long Path Tool.exe" file to d:\any\Long Path Tool.exe
+2. right click "Long Path Tool.exe"
+3. select "Run as administrator"
+4. finish install
+
+*** Use ***
+1. right click any file or folder
+2. find "Long Path Tool"
+3. click
+4. to do
+
+*** Use multi file or folder ***
+1. right click any file or folder
+2. click "Send To"
+3. find "Long Path Tool"
+4. click
+5. to do

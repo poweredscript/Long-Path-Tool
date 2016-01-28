@@ -1,0 +1,30 @@
+D:\Visual Studio\Projects\Long Path Tool\Long Path Tool\bin\Debug\Long Path Tool.exe.config
+D:\Visual Studio\Projects\Long Path Tool\Long Path Tool\bin\Debug\Long Path Tool.exe
+D:\Visual Studio\Projects\Long Path Tool\Long Path Tool\bin\Debug\Ookii.Dialogs.dll
+D:\Visual Studio\Projects\Long Path Tool\Long Path Tool\bin\Debug\Ookii.Dialogs.xml
+D:\Visual Studio\Projects\Long Path Tool\Long Path Tool\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\Visual Studio\Projects\Long Path Tool\Long Path Tool\obj\Debug\Long Path Tool.csproj.ResolveComReference.cache
+D:\Visual Studio\Projects\Long Path Tool\Long Path Tool\obj\Debug\Long_Path_Tool.Form1.resources
+D:\Visual Studio\Projects\Long Path Tool\Long Path Tool\obj\Debug\Long_Path_Tool.Properties.Resources.resources
+D:\Visual Studio\Projects\Long Path Tool\Long Path Tool\obj\Debug\Long Path Tool.csproj.GenerateResource.Cache
+D:\Visual Studio\Projects\Long Path Tool\Long Path Tool\obj\Debug\Long Path Tool.exe
+D:\Visual Studio\Projects\Long Path Tool\Long Path Tool\obj\Debug\Long Path Tool.pdb
+D:\Visual Studio\Projects\Long Path Tool\Long Path Tool\obj\Debug\Long Path Tool.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Long Path Tool\Long Path Tool\bin\Debug\Long Path Tool.pdb
+D:\Visual Studio\Projects\Long Path Tool\Long Path Tool\bin\Debug\Interop.IWshRuntimeLibrary.dll
+D:\Visual Studio\Projects\Long Path Tool\Long Path Tool\bin\Debug\Pri.LongPath.dll
+C:\Users\Apichai\Documents\GitHub\Long-Path-Tool\Long Path Tool\bin\Debug\Long Path Tool.exe.config
+C:\Users\Apichai\Documents\GitHub\Long-Path-Tool\Long Path Tool\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Apichai\Documents\GitHub\Long-Path-Tool\Long Path Tool\obj\Debug\Long Path Tool.csproj.ResolveComReference.cache
+C:\Users\Apichai\Documents\GitHub\Long-Path-Tool\Long Path Tool\obj\Debug\Long Path Tool.exe
+C:\Users\Apichai\Documents\GitHub\Long-Path-Tool\Long Path Tool\obj\Debug\Long Path Tool.pdb
+C:\Users\Apichai\Documents\GitHub\Long-Path-Tool\Long Path Tool\bin\Debug\Long Path Tool.exe
+C:\Users\Apichai\Documents\GitHub\Long-Path-Tool\Long Path Tool\bin\Debug\Long Path Tool.pdb
+C:\Users\Apichai\Documents\GitHub\Long-Path-Tool\Long Path Tool\bin\Debug\Ookii.Dialogs.dll
+C:\Users\Apichai\Documents\GitHub\Long-Path-Tool\Long Path Tool\bin\Debug\Pri.LongPath.dll
+C:\Users\Apichai\Documents\GitHub\Long-Path-Tool\Long Path Tool\bin\Debug\Ookii.Dialogs.xml
+C:\Users\Apichai\Documents\GitHub\Long-Path-Tool\Long Path Tool\bin\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Apichai\Documents\GitHub\Long-Path-Tool\Long Path Tool\obj\Debug\Long Path Tool.csprojResolveAssemblyReference.cache
+C:\Users\Apichai\Documents\GitHub\Long-Path-Tool\Long Path Tool\obj\Debug\Long_Path_Tool.Form1.resources
+C:\Users\Apichai\Documents\GitHub\Long-Path-Tool\Long Path Tool\obj\Debug\Long_Path_Tool.Properties.Resources.resources
+C:\Users\Apichai\Documents\GitHub\Long-Path-Tool\Long Path Tool\obj\Debug\Long Path Tool.csproj.GenerateResource.Cache
